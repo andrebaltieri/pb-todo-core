@@ -1,0 +1,8 @@
+{
+  "projects": [
+    "Todo.Api", 
+    "Todo.Domain", 
+    "Todo.Domain.Tests",
+    "Todo.Infra"
+  ]
+}
